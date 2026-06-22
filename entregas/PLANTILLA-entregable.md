@@ -1,8 +1,8 @@
 # Entregable · Sesión 3 — Copilotos IA
 
-- **Nombre / usuario:**
-- **Fecha de entrega:**
-- **Repo auditado en la Parte A** (solo tipo/contexto, NO el código): _p. ej. "monorepo TypeScript de trabajo, ~8 meses"_
+- **Nombre / usuario:** Valentín Martín Tejeda / valenmail-prog
+- **Fecha de entrega:** 22/06/2026
+- **Repo auditado en la Parte A** : Repo de la práctica (documentación en Markdown, recién clonado)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ```markdown
 ---
-name:checklistForPRs
+name: checklistForPRs
 description: Lista de puntos que hay que cumplir obligatoriamente al subir un PR
 ---
 
@@ -131,7 +131,7 @@ Devuelve siempre el checklist con su estado real
 
 *Qué probarías si tuvieras más tiempo:*
 
-- Habría probado si luego al pedirle cambios cumple de manera automatica los puntos, y en que momento avisa de que algo no se esta cumpliendo.
+- Habría probado si luego al pedirle cambios cumple de manera automática los puntos, y en que momento avisa de que algo no se esta cumpliendo.
 
 *¿Usaste IA para crear la skill?* (qué partes generaste con IA y qué partes decidiste tú)
 
