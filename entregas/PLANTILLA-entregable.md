@@ -139,6 +139,7 @@ Devuelve siempre el checklist con su estado real
 
 ### Resultado de la prueba (Paso 8)
 
-- ¿Se activó cuando lo esperabas?
-- ¿El resultado fue el que querías?
-- Si no, ¿qué crees que falló? (no la "arregles" — documenta el primer intento)
+- ¿Se activó cuando lo esperabas? No se ha activado, tiene que haber algo mal en la ubicación o en las carpertas y me ha dejado hacer el PR sin que cumpliera el checklist que le he pasado.
+- He creado el skill en esta ruta: .claude\skills\checklistForPRs. Creo que el problema es que lo he hecho yo manualmente, he creado todas las carpetas.
+
+  
